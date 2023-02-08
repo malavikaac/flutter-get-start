@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Atre HealthTech"),
+          title: Text("sfghgj Atre HealthTech"),
           centerTitle: true,
           backgroundColor: Color.fromARGB(255, 58, 211, 63),
         ),
@@ -11,11 +11,10 @@ void main() => runApp(MaterialApp(
           child: Text("Hello Atre",
               style: TextStyle(
                 fontSize: 30.0,
-                  fontWeight:FontWeight.bold,
-                letterSpacing:2.0,
-                color:Colors.grey,
-              )
-              ),
+                fontWeight: FontWeight.bold,
+                letterSpacing: 2.0,
+                color: Colors.grey,
+              )),
         ),
         floatingActionButton: FloatingActionButton(
           onPressed: () {},
